@@ -97,11 +97,7 @@ const RootPage = () => {
       <AppFooter />
 
       {/* Scroll To Top Button */}
-      <ScrollToTop
-        smooth
-        color="white"
-        className="bg-[#B31312] flex justify-center items-center p-2 rounded-full scroll-to-top"
-      />
+      <ScrollToTop smooth color="white" className="scroll-to-top" />
     </Layout>
   );
 };

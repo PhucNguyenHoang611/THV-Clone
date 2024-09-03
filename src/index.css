@@ -70,6 +70,13 @@
   }
 }
 .scroll-to-top {
+  color: white;
+  background-color: #b31312;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 9999px;
   animation: smooth-appear 1s ease forwards;
 }
 
